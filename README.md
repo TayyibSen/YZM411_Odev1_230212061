@@ -24,7 +24,7 @@ Bu çalışma kapsamında sabit bir masaüstü sahnesi üzerinde üç farklı ay
 
 ---
 
-## 🛠 Kullanılan Kütüphaneler ve Sürümler
+##  Kullanılan Kütüphaneler ve Sürümler
 
 * **Python:** 3.12+ / 3.13
 * **OpenCV (`cv2`):** Görüntü okuma, BGR/RGB dönüşümü, SIFT homografi ve yeniden boyutlandırma
